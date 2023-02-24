@@ -2,21 +2,24 @@
 <manifest>
 
   <!--Device tree-->
-  <project name="cyder9810trees/device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="derp" remote="github"/>
-  <project name="cyder9810trees/device_samsung_starlte" path="device/samsung/starlte" revision="derp" remote="github"/>
-  <project name="cyder9810trees/device_samsung_star2lte" path="device/samsung/star2lte" revision="derp" remote="github"/>
-  <project name="cyder9810trees/device_samsung_crownlte" path="device/samsung/crownlte" revision="derp" remote="github"/>
+  <project name="Cyderxxv/device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="thirteen" remote="github"/>
+  <project name="Cyderxxv/device_samsung_starlte" path="device/samsung/starlte" revision="thirteen" remote="github"/>
+  <project name="Cyderxxv/device_samsung_star2lte" path="device/samsung/star2lte" revision="thirteen" remote="github"/>
+  <project name="Cyderxxv/device_samsung_crownlte" path="device/samsung/crownlte" revision="thirteen" remote="github"/>
 
   <!-- Vendor -->
-  <project name="cyder9810trees/vendor_samsung_exynos9810-common" path="vendor/samsung/exynos9810-common" revision="tiramisu" remote="github"/>
-  <project name="cyder9810trees/vendor_samsung_starlte" path="vendor/samsung/starlte" revision="tiramisu" remote="github"/>
-  <project name="cyder9810trees/vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="tiramisu" remote="github"/>
-  <project name="cyder9810trees/vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="tiramisu" remote="github"/>
+  <project name="Cyderxxv/vendor_samsung_exynos9810-common" path="vendor/samsung/exynos9810-common" revision="thirteen" remote="github"/>
+  <project name="Cyderxxv/vendor_samsung_starlte" path="vendor/samsung/starlte" revision="thirteen" remote="github"/>
+  <project name="Cyderxxv/vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="thirteen" remote="github"/>
+  <project name="Cyderxxv/vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="thirteen" remote="github"/>
+
+  <!-- Hardware -->
+  <project name="Cyderxxv/hardware_samsung" path="hardware/samsung" revision="thirteen" remote="github"/>
 
   <!-- SLSI -->
-  <project name="cyder9810trees/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="tiramisu" remote="github"/>
+  <project name="Cyderxxv/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
   
   <!-- Kernel -->
-  <project name="cyder9810trees/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="tiramisu" remote="github"/>
+  <project name="exynos9810-testing/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="lineage-20" remote="github"/>
 
 </manifest>
