@@ -20,6 +20,6 @@
   <project name="Cyderxxv/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
   
   <!-- Kernel -->
-  <project name="exynos9810-testing/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="lineage-20" remote="github"/>
+  <project name="Cyderxxv/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="lineage-20" remote="github"/>
 
 </manifest>
