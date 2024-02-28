@@ -15,8 +15,9 @@
 
   <!-- SLSI -->
   <project name="Cyderxxv/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="udc" remote="github"/>
+  <project name="Cyderxxv/hardware_samsung_slsi" path="hardware/samsung_slsi" revision="thirteen-clean-upstream" remote="github"/>
   
   <!-- Kernel -->
-  <project name="PixelExperience-Devices/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+  <project name="samsungexynos9810/kernel_samsung_exynos9810-V2" path="kernel/samsung/exynos9810" revision="everest-up1a" remote="github"/>
 
 </manifest>
